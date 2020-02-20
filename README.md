@@ -1,2 +1,2 @@
 # kadertest
-J'apprend Github
+J'apprend Githud et Git
